@@ -1,0 +1,25 @@
+True
+True
+True
+True
+True
+True
+31 8 12 10 20 50 
+Error in Line: next
+True
+False
+True
+8
+50
+31 8 *12 10 20 50 
+4
+6
+True
+True
+True
+Error in insert: IllegalArgumentException raised
+31 8 *12 10 20 *50 98 84 
+Error in insert: IllegalArgumentException raised
+Error in Line: insert:15
+Error in Line: Insert
+Error in Line: hih
